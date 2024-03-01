@@ -1,0 +1,1 @@
+/usr/bin/g++  -Wall -pedantic -g -rdynamic CMakeFiles/ur16_move.dir/main.cpp.o CMakeFiles/ur16_move.dir/URRobot.cpp.o -o ur16_move  -Wl,-rpath,/opt/ros/humble/lib/x86_64-linux-gnu /opt/ros/humble/lib/x86_64-linux-gnu/liburcl.so 

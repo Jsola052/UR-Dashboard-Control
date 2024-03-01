@@ -1,0 +1,3 @@
+/home/robotics/Projects/UR16/UR-Dashboard-Control/build/CMakeFiles/ur16_move.dir
+/home/robotics/Projects/UR16/UR-Dashboard-Control/build/CMakeFiles/edit_cache.dir
+/home/robotics/Projects/UR16/UR-Dashboard-Control/build/CMakeFiles/rebuild_cache.dir

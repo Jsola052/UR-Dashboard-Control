@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/robotics/Projects/UR16/UR-Dashboard-Control/build",
+  "command": "/usr/bin/g++  -isystem /opt/ros/humble/include  -Wall -pedantic -g -std=c++17 -o CMakeFiles/ur16_move.dir/main.cpp.o -c /home/robotics/Projects/UR16/UR-Dashboard-Control/main.cpp",
+  "file": "/home/robotics/Projects/UR16/UR-Dashboard-Control/main.cpp"
+},
+{
+  "directory": "/home/robotics/Projects/UR16/UR-Dashboard-Control/build",
+  "command": "/usr/bin/g++  -isystem /opt/ros/humble/include  -Wall -pedantic -g -std=c++17 -o CMakeFiles/ur16_move.dir/URRobot.cpp.o -c /home/robotics/Projects/UR16/UR-Dashboard-Control/URRobot.cpp",
+  "file": "/home/robotics/Projects/UR16/UR-Dashboard-Control/URRobot.cpp"
+}
+]
